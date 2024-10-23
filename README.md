@@ -6,7 +6,7 @@ The **Simon Game** is a fun and interactive memory game that tests your ability 
 ## Features
 - **Color Buttons**: Interactive buttons that light up in a sequence.
 - **Sound Effects**: Clicks produce sounds to enhance gameplay.
-- **Score Tracking**: Keeps track of your current score and game status.
+- **Score Tracking**: Keeps track of your current score and games status.
 - **Responsive Design**: Optimized for various screen sizes.
 
 ## Technical Details
